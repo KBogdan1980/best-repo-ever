@@ -1,4 +1,4 @@
 # best-repo-ever
 For trailhead studying
 
-Hi!
+Hello! I'm studying GIT.
